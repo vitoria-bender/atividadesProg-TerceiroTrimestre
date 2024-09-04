@@ -1,4 +1,4 @@
-package aula31;
+package aula31.ExemploAbstrato;
 
 public class Principal {
     public static void main(String[] args) {
@@ -8,6 +8,6 @@ public class Principal {
         Retangulo r1 = new Retangulo();
         r1.setBase(7);
         r1.setAltura(5);
-        System.out.println();
+        System.out.println(r1);
     }
 }

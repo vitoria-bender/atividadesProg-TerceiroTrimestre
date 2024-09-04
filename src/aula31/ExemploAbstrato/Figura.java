@@ -1,4 +1,4 @@
-package aula31;
+package aula31.ExemploAbstrato;
 
 public abstract class Figura {
     private String nomeFigura;

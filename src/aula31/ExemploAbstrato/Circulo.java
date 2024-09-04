@@ -1,4 +1,6 @@
-package aula31;
+package aula31.ExemploAbstrato;
+
+import aula31.ExemploAbstrato.Figura;
 
 public class Circulo extends Figura {
     private double raio;

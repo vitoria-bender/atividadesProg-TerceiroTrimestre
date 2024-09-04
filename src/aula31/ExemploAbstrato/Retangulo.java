@@ -1,6 +1,6 @@
-package aula31;
+package aula31.ExemploAbstrato;
 
-public class Retangulo extends Figura{
+public class Retangulo extends Figura {
     private double base;
     private double altura;
 
