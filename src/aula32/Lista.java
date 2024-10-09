@@ -79,17 +79,9 @@ public class Lista<T> {
 
     }
 
-    public boolean contem(T elemento){
-
-    }
-
-    public int ultimaPosicaoElemento(T elemento)
-
-
-
 
     /**
-     * método que retorna a lista em formato de string
+     * Metodo que retorna a lista em formato de string
      * @return se a lista estiver vazia = [], se a lista possuir elementos retorna
      * [1, 2, 3, 4, ...]
      */
